@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HannaDiachenko
+- 👋 Hi, I’m @Hanna
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning the Golang programming language
 - 📫 How to reach me: 
